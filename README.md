@@ -21,7 +21,9 @@ I am actively seeking **part-time contractual roles** and **Co-op opportunities*
 ---
 
 ## 🚀 Projects  
-- **[Event Song Ranker](https://github.com/yash211/eventSongRanker-fe):** **Currently working on**: A MERN stack app allowing users to rank songs posted by artists to assist in concert planning.  
+- **[Math Bubble Blaster](https://github.com/yash211/math-game):** **Currently Working** : A MERN stack app allowing users to rank songs posted by artists to assist in concert planning.
+
+- **[Event Song Ranker](https://github.com/yash211/eventSongRanker-fe):** : A MERN stack app allowing users to rank songs posted by artists to assist in concert planning.  
 
 - **[Automated Healthcare System Using AI-Based Chatbot](https://github.com/yash211/Automated-healthcare-system-using-AI-based-Chatbot):** Developed an AI-powered healthcare chatbot using Python, Flask, and machine learning to assist users in diagnosing symptoms with 89% model accuracy.  
 
