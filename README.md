@@ -21,7 +21,7 @@ I am actively seeking **part-time contractual roles** and **Co-op opportunities*
 ---
 
 ## 🚀 Projects  
-- **[Math Bubble Blaster](https://github.com/yash211/math-game):Built a real-time multiplayer math game using Canvas 2D API, Socket.io, React + Vite, and a TypeScript backend. The game focuses on interactive math challenges, and I’d love your feedback - play it [here](https://math-game-ivory.vercel.app/).
+- **[Math Bubble Blaster](https://github.com/yash211/math-game):** Built a real-time multiplayer math game using Canvas 2D API, Socket.io, React + Vite, and a TypeScript backend. The game focuses on interactive math challenges, and I’d love your feedback - play it [here](https://math-game-ivory.vercel.app/).
 
 - **[Event Song Ranker](https://github.com/yash211/eventSongRanker-fe):** : A MERN stack app allowing users to rank songs posted by artists to assist in concert planning.  
 
