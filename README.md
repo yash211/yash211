@@ -1,6 +1,6 @@
 # Hi, I'm Yash Gupta 👋  
 
-📍 London, ON | 📧 [gupta.yash211@gmail.com](mailto:gupta.yash211@gmail.com) 🔗 [https://linkedin.com/in/yash211](https://linkedin.com/in/yash211) | 🌐 [https://github.com/yash211](https://github.com/yash211)  
+📍 Toronto, ON | 📧 [gupta.yash211@gmail.com](mailto:gupta.yash211@gmail.com) 🔗 [https://linkedin.com/in/yash211](https://linkedin.com/in/yash211) | 🌐 [https://github.com/yash211](https://github.com/yash211)  
   | 🌐 [https://github.com/yg-uwo](https://github.com/yg-uwo) | [Portfolio](https://yash-guptaportfolio.netlify.app/) 
 
 ---
